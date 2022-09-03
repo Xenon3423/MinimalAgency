@@ -645,6 +645,13 @@ header {
     background-image: url(img/footer.jpg);
 }
 
+.footer>img {
+    position: absolute;
+    width: 1440px;
+    height: 517px;
+    z-index: -1;
+}
+
 .footer h2 {
     position: absolute;
     width: 245px;
